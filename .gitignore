@@ -10,5 +10,6 @@ cmake_install.cmake
 src/CMakeFiles/*
 CMakeFiles/*
 *.csv
+bin/
 
 bpfnic/synthetic-traffic-gen/build/CMakeFiles
